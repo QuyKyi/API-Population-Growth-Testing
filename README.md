@@ -18,9 +18,12 @@ git clone https://github.com/QuyKyi/API-Population-Growth-Testing.git
 - Ensure you are in the project directory before running these commands.
 - Run the API_get_Population.py file:
 ```
-pytest API_get_Population.py
+python3 /Users/quy.kyi/Downloads/API-Population-Growth-Testing-main-2/API_get_Population.py
 
 ```
+### Notes:
+
+Replace /Users/quy.kyi/Downloads with the actual path to your project directory if it differs.
 
 ## Test Results
-After running the tests, you can find the test results in the `allureReport` directory.
+> According to Census Bureau, in 8 years from 2013 to 2021, peak population growth was 0.97% in 2021 and the lowest population increase was 0.56% in 2019.
